@@ -3,16 +3,19 @@
 <img src="./assets/avatar.jpg" width="160px" style="border-radius: 50%; border: 3px solid #38BDF8; box-shadow: 0 0 25px rgba(56,189,248,0.4);" alt="Murshed Al Main" />
 
 # Hi there, I'm Murshed Al Main 👋
-### 🚀 Full-Stack Web & Mobile Developer | Software Engineer
+### 🚀 Founder @ GrameenWiFi | Full-Stack Web, Mobile & Telecom Software Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full-Stack+Web+%26+Mobile+Developer;Next.js+%7C+TypeScript+%7C+React+%7C+Node.js;Kotlin+%7C+Flutter+%7C+Android+Development;Clean+Architecture+%26+Scalable+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Founder+%40+GrameenWiFi+(ISP);Full-Stack+Web+%26+Mobile+Software+Engineer;Next.js+%7C+TypeScript+%7C+React+%7C+Node.js;Telecom+%7C+ISP+Billing+%7C+MikroTik+%7C+Cloud+Systems)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/morshedkoli?tab=repositories">
-    <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Mobile-blue?style=for-the-badge&logo=react&logoColor=white" alt="Focus" />
+    <img src="https://img.shields.io/badge/Company-GrameenWiFi-blue?style=for-the-badge&logo=wifi&logoColor=white" alt="Company" />
+  </a>
+  <a href="https://github.com/morshedkoli?tab=repositories">
+    <img src="https://img.shields.io/badge/Focus-ISP%20%26%20Full--Stack%20Systems-purple?style=for-the-badge&logo=react&logoColor=white" alt="Focus" />
   </a>
   <a href="https://github.com/morshedkoli">
-    <img src="https://img.shields.io/badge/Open%20To-Opportunities%20%26%20Collaborations-brightgreen?style=for-the-badge" alt="Status" />
+    <img src="https://img.shields.io/badge/Open%20To-Collaborations%20%26%20Consulting-brightgreen?style=for-the-badge" alt="Status" />
   </a>
 </p>
 
@@ -22,11 +25,12 @@
 
 ## 👨‍💻 About Me
 
-- 🌐 **Full-Stack & Mobile Developer** building high-performance web systems, cloud dashboards, and cross-platform apps.
-- ⚡ **Core Web Stack:** **Next.js, TypeScript, React, Node.js, Express, Tailwind CSS, PostgreSQL & Prisma**.
-- 📱 **Mobile & Native Stack:** **Kotlin, Android, Flutter & Dart**.
-- 🏢 **Professional Experience:** Developing enterprise management software, digital citizen service portals, payment infrastructure, and media streaming apps at **Ababil IT**.
-- 🎯 **Continuous Learning:** Scalable cloud architectures, event-driven backends, edge functions, and AI-powered utilities.
+- 🌐 **Founder & Tech Lead at GrameenWiFi**, operating and engineering high-reliability Internet Service Provider (ISP) infrastructure, automated client billing, captive hotspot portals, and network management systems.
+- ⚡ **Full-Stack Software Engineer** architecting enterprise web applications, mobile platforms, and cloud platforms.
+- 🛠️ **Core Web Stack:** **Next.js, TypeScript, React, Node.js, Express, Tailwind CSS, PostgreSQL & Prisma**.
+- 📱 **Mobile & Native Stack:** **Kotlin (Android), Flutter & Dart**.
+- 📶 **Telecom & Networking:** MikroTik RouterOS API, Radius, Captive Portals, ISP Billing Automation, Bandwidth Management.
+- 🎯 **Mission:** Delivering fast, accessible digital connectivity, modern SaaS products, and resilient software architectures.
 
 ---
 
@@ -43,10 +47,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend, APIs & Network Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik_RouterOS-20232A?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 📱 Mobile & Native Development
@@ -60,28 +65,22 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🔧 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
-## 🔥 Featured Projects
+## 📶 GrameenWiFi & Featured Solutions
 
-| Project | Tech Stack | Highlights | Repository |
+| Project | Tech Stack | Description | Repository |
 | :--- | :--- | :--- | :---: |
-| **🏛️ Smart Union Platform** | `Next.js` `TypeScript` `PostgreSQL` `Tailwind` | Comprehensive digital governance, citizen services & public records management system. | [View Repo →](https://github.com/morshedkoli/smart_union_v1) |
-| **☁️ KoliDrive** | `TypeScript` `React` `Node.js` `Cloud Storage` | Modern personal cloud storage & file management platform with intuitive workspace UI. | [View Repo →](https://github.com/morshedkoli/kolidrive) |
-| **⚡ dRecharge Ultimate** | `TypeScript` `Next.js` `Fintech API` | Automated digital telecom recharge, billing & instant payment processing application. | [View Repo →](https://github.com/morshedkoli/dRecharge_ultimate) |
-| **🎬 KPlay Media Engine** | `Kotlin` `Android Native` `Media3` | Native Android audio/video player with hardware acceleration and fluid background playback. | [View Repo →](https://github.com/morshedkoli/kplay) |
-| **🏘️ Village Community Hub** | `TypeScript` `React` `Next.js` | Community portal & administrative management system for local institutions. | [View Repo →](https://github.com/morshedkoli/village-admin) |
-| **📰 Muktirkantho Media** | `TypeScript` `Next.js` `REST API` | Fast, accessible news publishing portal with categorized live feeds and article viewer. | [View Repo →](https://github.com/morshedkoli/muktirkantho) |
+| **📶 GrameenWiFi ISP Suite** | `TypeScript` `Node.js` `MikroTik API` `PostgreSQL` | Automated broadband billing, client CRM, bandwidth queue control & MikroTik router integration. | [View Repo →](https://github.com/morshedkoli/isp) |
+| **🌐 GrameenWiFi Hotspot Portal** | `HTML5` `JavaScript` `MikroTik Hotspot` | High-converting captive login portal, voucher authentication system & WiFi user management. | [View Repo →](https://github.com/morshedkoli/gpwifi) |
+| **🏛️ Smart Union Governance** | `Next.js` `TypeScript` `PostgreSQL` `Tailwind` | Citizen public services, digital certificate generation & local government administration portal. | [View Repo →](https://github.com/morshedkoli/smart_union_v1) |
+| **☁️ KoliDrive Cloud Platform** | `TypeScript` `React` `Node.js` `Cloud Storage` | Modern personal cloud storage & secure document sharing platform with real-time UI. | [View Repo →](https://github.com/morshedkoli/kolidrive) |
+| **⚡ dRecharge Ultimate** | `TypeScript` `Next.js` `Fintech API` | Automated digital telecom recharge, instant mobile payments & billing gateway. | [View Repo →](https://github.com/morshedkoli/dRecharge_ultimate) |
+| **🎬 KPlay Media Engine** | `Kotlin` `Android Native` `Media3` | Native Android audio/video playback engine with hardware acceleration & fluid UI. | [View Repo →](https://github.com/morshedkoli/kplay) |
 
 ---
 
@@ -98,13 +97,14 @@
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect & Collaborate
 
 <div align="center">
 
+[![GrameenWiFi](https://img.shields.io/badge/GrameenWiFi-ISP%20Network-007ACC?style=for-the-badge&logo=wifi&logoColor=white)](https://github.com/morshedkoli)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/morshedkoli)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murshedkoli@gmail.com)
 
-⭐ *If you find any of my repositories useful, don't hesitate to star the projects and reach out!*
+⭐ *Feel free to explore the repositories, star the projects, and connect for collaborations!*
 
 </div>
