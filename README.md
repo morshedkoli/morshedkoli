@@ -6,7 +6,7 @@
 ### Senior Full-Stack Web Developer & Next.js Ecosystem Architect
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=700&height=50&lines=Senior+Full-Stack+Web+Developer;Next.js+15%2B+%26+React+19+Architect;Creator+of+Muktirkantho%2C+KoliDrive+%26+Smart+Union;TypeScript%2C+Prisma+ORM+%26+PostgreSQL;Engineering+Production+Cloud+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=700&height=50&lines=Senior+Full-Stack+Web+Developer;Creator+of+PayChat%2C+Muktirkantho%2C+KoliDrive+%26+Smart+Union;Next.js+15%2B+%26+React+19+Architect;Fintech%2C+Cloud+Storage+%26+Civic+Governance;Engineering+Production+Cloud+Platforms" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -23,25 +23,42 @@
 
 ## 📌 Executive Summary
 
-I am a **Senior Full-Stack Web Developer** specializing in the **Next.js ecosystem**, **React 19**, and high-performance **TypeScript** cloud architectures. I have engineered enterprise-grade web platforms, cloud storage solutions, automated telecom billing engines, and nationwide civic technology platforms.
+I am a **Senior Full-Stack Web Developer** specializing in the **Next.js ecosystem**, **React 19**, and high-performance **TypeScript** cloud architectures. I engineer enterprise-grade web platforms, conversational FinTech banking applications, high-throughput media portals, and cloud file workspaces.
 
 My development ethos is rooted in the **Next.js App Router paradigm**: leveraging **React Server Components (RSC)** for minimal client bundles, **Server Actions** for type-safe data mutations, **Streaming SSR with Suspense** for lightning-fast First Contentful Paint, and **On-Demand Incremental Static Regeneration (ISR)** for high-throughput publishing.
 
-- 🏆 **Signature Masterpieces**: **Muktirkantho** (Digital News Engine), **KoliDrive Cloud** (S3 Workspace), and **Smart Union** (Civic Governance Platform).
-- ⚡ **Core Stack**: Next.js 15+, React 19, TypeScript, Prisma ORM, Neon Serverless PostgreSQL, Tailwind CSS v4, AWS S3, Cloudinary.
+- 🏆 **Signature Masterpieces**: **PayChat** (Conversational Banking), **Muktirkantho** (Digital News Engine), **KoliDrive Cloud** (S3 Workspace), and **Smart Union** (Civic Governance Platform).
+- ⚡ **Core Stack**: Next.js 15+, React 19, TypeScript, Prisma ORM, Neon Serverless PostgreSQL, Kotlin, Firebase, AWS S3, Tailwind CSS v4.
 - 💡 **Philosophy**: Server-first architecture, strict end-to-end type safety, zero-runtime CSS overhead, and sub-second Core Web Vitals.
 
 ---
 
-## 🏆 Signature Masterpieces & Flagship Systems
+## 🏆 Signature Masterpieces & Flagship Systems (Top 4)
 
 <div align="center">
-  <i>The crown jewels of my engineering portfolio — built with architectural precision, security, and measurable real-world impact.</i>
+  <i>The four primary pillars of my software engineering portfolio.</i>
 </div>
 
 <br/>
 
-### 1. 📰 [Muktirkantho — Modern Digital News Publishing & Media Portal](https://github.com/morshedkoli/muktirkantho)
+### 1. 💬 [PayChat — FinTech Conversational Banking & P2P Micro-Payments](https://github.com/morshedkoli/paychat)
+
+> **High-performance conversational banking and peer-to-peer micro-payment application combining encrypted real-time messaging with instant biometric financial transactions.**
+
+[![Platform](https://img.shields.io/badge/Platform-Android_Native-3DDC84?style=flat-square&logo=android)](https://developer.android.com/)
+[![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=flat-square&logo=kotlin)](https://kotlinlang.org/)
+[![Firebase](https://img.shields.io/badge/Backend-Firebase_Firestore-FFCA28?style=flat-square&logo=firebase)](https://firebase.google.com/)
+[![Security](https://img.shields.io/badge/Security-Biometric_Auth-00E599?style=flat-square)](https://github.com/morshedkoli/paychat)
+[![Repository](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/morshedkoli/paychat)
+
+- **⚡ In-Chat Instant Money Transfers**: Send and request funds directly inside conversational chat bubbles with seamless biometric confirmation.
+- **🔒 End-to-End Chat Encryption**: Real-time messaging powered by Google Firebase Firestore with client-side cryptographic message delivery and granular security rules.
+- **👛 Multi-Wallet Balance Management**: Integrated digital wallet supporting top-ups, detailed transaction statements, and instant merchant settlements.
+- **🛡️ Biometric Security & PIN Protection**: Fingerprint and face authentication layers protecting high-value transactional flows against unauthorized access.
+
+---
+
+### 2. 📰 [Muktirkantho — Modern Digital News Publishing & Media Portal](https://github.com/morshedkoli/muktirkantho)
 
 > **High-throughput digital journalism portal engineered for rapid news delivery, multimedia journalism, and server-side editorial workflows.**
 
@@ -52,14 +69,14 @@ My development ethos is rooted in the **Next.js App Router paradigm**: leveragin
 [![Radix UI](https://img.shields.io/badge/Radix_UI-Primitives-161618?style=flat-square&logo=radix-ui)](https://radix-ui.com/)
 [![Repository](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/morshedkoli/muktirkantho)
 
-- **⚡ On-Demand Incremental Static Regeneration (ISR)**: Articles are statically cached at the edge and instantly revalidated via `revalidateTag('articles')` upon editorial publication.
-- **✍️ Server Actions Editorial Pipeline**: Eliminates client-side REST overhead by leveraging native Next.js Server Actions for drafts, approvals, and category tagging.
+- **⚡ On-Demand Incremental Static Regeneration (ISR)**: Articles are statically cached at the edge and instantly revalidated via `revalidateTag('articles')` upon publication.
+- **✍️ Server Actions Editorial Pipeline**: Eliminates client-side REST overhead by leveraging native Next.js Server Actions for drafts, approvals, and tagging.
 - **📸 High-Resolution CDN Media Pipeline**: Automated image compression, WebP/AVIF format transcoding, and responsive `next/image` loading powered by Cloudinary.
 - **🇧🇩 Typography & Accessibility**: Handcrafted Bengali Unicode font scaling, fluid dark mode, and zero-layout-shift (CLS = 0) reading experience.
 
 ---
 
-### 2. ☁️ [KoliDrive Cloud — Enterprise File Storage & Workspace Platform](https://github.com/morshedkoli/kolidrive)
+### 3. ☁️ [KoliDrive Cloud — Enterprise File Storage & Workspace Platform](https://github.com/morshedkoli/kolidrive)
 
 > **Modern, secure personal and enterprise cloud storage platform featuring direct S3 streaming, cryptographic access tokens, and zero-server-choke architecture.**
 
@@ -77,7 +94,7 @@ My development ethos is rooted in the **Next.js App Router paradigm**: leveragin
 
 ---
 
-### 3. 🏛️ [Smart Union — Comprehensive Digital Citizen Governance Suite](https://github.com/morshedkoli/smart_union_v1)
+### 4. 🏛️ [Smart Union — Comprehensive Digital Citizen Governance Suite](https://github.com/morshedkoli/smart_union_v1)
 
 > **Nationwide civic governance platform transforming local government councils (Union Parishad) through automated citizen certificates, AI document assistance, and tamper-proof verification.**
 
@@ -119,34 +136,22 @@ My development ethos is rooted in the **Next.js App Router paradigm**: leveragin
 [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)](https://radix-ui.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/)
-[![CSS3 / PostCSS](https://img.shields.io/badge/CSS3_|_PostCSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/)
 
 ### ⚙️ Backend, Serverless & API Engineering
 [![Node.js LTS](https://img.shields.io/badge/Node.js_LTS-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Server Actions](https://img.shields.io/badge/Server_Actions-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logo=postman&logoColor=white)](https://restfulapi.net/)
-[![NextAuth.js](https://img.shields.io/badge/NextAuth.js-7B1FA2?style=for-the-badge&logo=auth0&logoColor=white)](https://next-auth.js.org/)
-[![JSON Web Tokens](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
+[![Android Native](https://img.shields.io/badge/Android_Native-Kotlin-7F52FF?style=for-the-badge&logo=android&logoColor=white)](https://kotlinlang.org/)
 [![MikroTik RouterOS API](https://img.shields.io/badge/MikroTik_API-RouterOS-2E7D32?style=for-the-badge)](https://mikrotik.com/)
+[![NextAuth.js](https://img.shields.io/badge/NextAuth.js-7B1FA2?style=for-the-badge&logo=auth0&logoColor=white)](https://next-auth.js.org/)
 
 ### 🗄️ Database, ORM & Storage Engines
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Neon Serverless](https://img.shields.io/badge/Neon_Serverless_Postgres-00E599?style=for-the-badge&logo=postgresql&logoColor=black)](https://neon.tech/)
 [![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Mongoose ODM](https://img.shields.io/badge/Mongoose_ODM-880000?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongoosejs.com/)
-[![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)](https://orm.drizzle.team/)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
-
-### ☁️ Cloud, DevOps & Asset Pipelines
-[![Vercel](https://img.shields.io/badge/Vercel_Edge_Platform-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Firebase](https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)
-[![Cloudinary](https://img.shields.io/badge/Cloudinary_CDN-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 </div>
 
