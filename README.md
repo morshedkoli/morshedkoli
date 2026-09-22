@@ -6,7 +6,7 @@
 ### Senior Full-Stack Web Developer & Next.js Ecosystem Architect
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=700&height=50&lines=Senior+Full-Stack+Web+Developer;Next.js+15%2B+%26+React+19+Architect;App+Router%2C+Server+Actions+%26+RSC+Specialist;TypeScript%2C+Prisma+ORM+%26+PostgreSQL;Architecting+High-Performance+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=700&height=50&lines=Senior+Full-Stack+Web+Developer;Next.js+15%2B+%26+React+19+Architect;Creator+of+Muktirkantho%2C+KoliDrive+%26+Smart+Union;TypeScript%2C+Prisma+ORM+%26+PostgreSQL;Engineering+Production+Cloud+Platforms" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -23,13 +23,74 @@
 
 ## 📌 Executive Summary
 
-I am a **Senior Full-Stack Web Developer** specializing in the **Next.js ecosystem**, **React 19**, and modern **TypeScript** full-stack architectures. With 65+ open-source repositories and production-tested systems, I engineer web applications that combine pixel-perfect, accessible frontends with highly scalable serverless backends and database pipelines.
+I am a **Senior Full-Stack Web Developer** specializing in the **Next.js ecosystem**, **React 19**, and high-performance **TypeScript** cloud architectures. I have engineered enterprise-grade web platforms, cloud storage solutions, automated telecom billing engines, and nationwide civic technology platforms.
 
-My core expertise centers on the **Next.js App Router paradigm**—leveraging **React Server Components (RSC)** for minimal client bundles, **Server Actions** for type-safe data mutations, **Streaming SSR with Suspense** for lightning-fast First Contentful Paint, and **On-Demand Incremental Static Regeneration (ISR)** for high-throughput publishing.
+My development ethos is rooted in the **Next.js App Router paradigm**: leveraging **React Server Components (RSC)** for minimal client bundles, **Server Actions** for type-safe data mutations, **Streaming SSR with Suspense** for lightning-fast First Contentful Paint, and **On-Demand Incremental Static Regeneration (ISR)** for high-throughput publishing.
 
-- 🔭 **Current Focus**: High-scale Next.js SaaS platforms, automated telecommunications & ISP CRM systems, and real-time civic technology infrastructure.
-- ⚡ **Core Stack**: Next.js 15+, React 19, TypeScript, Prisma ORM, Neon Serverless PostgreSQL, Tailwind CSS v4, Radix UI, AWS S3.
+- 🏆 **Signature Masterpieces**: **Muktirkantho** (Digital News Engine), **KoliDrive Cloud** (S3 Workspace), and **Smart Union** (Civic Governance Platform).
+- ⚡ **Core Stack**: Next.js 15+, React 19, TypeScript, Prisma ORM, Neon Serverless PostgreSQL, Tailwind CSS v4, AWS S3, Cloudinary.
 - 💡 **Philosophy**: Server-first architecture, strict end-to-end type safety, zero-runtime CSS overhead, and sub-second Core Web Vitals.
+
+---
+
+## 🏆 Signature Masterpieces & Flagship Systems
+
+<div align="center">
+  <i>The crown jewels of my engineering portfolio — built with architectural precision, security, and measurable real-world impact.</i>
+</div>
+
+<br/>
+
+### 1. 📰 [Muktirkantho — Modern Digital News Publishing & Media Portal](https://github.com/morshedkoli/muktirkantho)
+
+> **High-throughput digital journalism portal engineered for rapid news delivery, multimedia journalism, and server-side editorial workflows.**
+
+[![Next.js](https://img.shields.io/badge/Next.js-15.0-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19.0-61DAFB?style=flat-square&logo=react)](https://react.dev/)
+[![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat-square&logo=prisma)](https://www.prisma.io/)
+[![Cloudinary](https://img.shields.io/badge/Cloudinary-CDN-3448C5?style=flat-square&logo=cloudinary)](https://cloudinary.com/)
+[![Radix UI](https://img.shields.io/badge/Radix_UI-Primitives-161618?style=flat-square&logo=radix-ui)](https://radix-ui.com/)
+[![Repository](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/morshedkoli/muktirkantho)
+
+- **⚡ On-Demand Incremental Static Regeneration (ISR)**: Articles are statically cached at the edge and instantly revalidated via `revalidateTag('articles')` upon editorial publication.
+- **✍️ Server Actions Editorial Pipeline**: Eliminates client-side REST overhead by leveraging native Next.js Server Actions for drafts, approvals, and category tagging.
+- **📸 High-Resolution CDN Media Pipeline**: Automated image compression, WebP/AVIF format transcoding, and responsive `next/image` loading powered by Cloudinary.
+- **🇧🇩 Typography & Accessibility**: Handcrafted Bengali Unicode font scaling, fluid dark mode, and zero-layout-shift (CLS = 0) reading experience.
+
+---
+
+### 2. ☁️ [KoliDrive Cloud — Enterprise File Storage & Workspace Platform](https://github.com/morshedkoli/kolidrive)
+
+> **Modern, secure personal and enterprise cloud storage platform featuring direct S3 streaming, cryptographic access tokens, and zero-server-choke architecture.**
+
+[![Next.js](https://img.shields.io/badge/Next.js-15.0-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![AWS S3](https://img.shields.io/badge/AWS_S3-Storage-FF9900?style=flat-square&logo=amazon-s3)](https://aws.amazon.com/s3/)
+[![Argon2](https://img.shields.io/badge/Security-Argon2-black?style=flat-square)](https://en.wikipedia.org/wiki/Argon2)
+[![Jose JWT](https://img.shields.io/badge/Auth-Jose_JWT-purple?style=flat-square)](https://github.com/panva/jose)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
+[![Repository](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/morshedkoli/kolidrive)
+
+- **⚡ Direct-to-S3 Chunked Streaming**: Files upload directly from the browser to Amazon S3 via cryptographically signed pre-signed URLs, preventing memory saturation on application servers.
+- **🔒 Enterprise Cryptography**: User authentication fortified with **Argon2** password hashing and stateless, cryptographically signed session tokens via **Jose JWT**.
+- **🔗 Expiring Share Links**: Generates time-limited, password-protected download links with download counters and access revocation.
+- **🎨 Glassmorphic File Explorer**: Sleek workspace interface with in-browser previews for PDFs, multimedia, and code files, accompanied by drag-and-drop organization.
+
+---
+
+### 3. 🏛️ [Smart Union — Comprehensive Digital Citizen Governance Suite](https://github.com/morshedkoli/smart_union_v1)
+
+> **Nationwide civic governance platform transforming local government councils (Union Parishad) through automated citizen certificates, AI document assistance, and tamper-proof verification.**
+
+[![React](https://img.shields.io/badge/React-19.0-61DAFB?style=flat-square&logo=react)](https://react.dev/)
+[![Google Gemini](https://img.shields.io/badge/AI-Google_Gemini-4285F4?style=flat-square&logo=google)](https://ai.google.dev/)
+[![jsPDF](https://img.shields.io/badge/PDF_Engine-jsPDF_|_html2canvas-FF6F00?style=flat-square)](https://parall.ax/products/jspdf)
+[![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
+[![Repository](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/morshedkoli/smart_union_v1)
+
+- **📜 Automated Official Certificate Engine**: Generates tamper-proof municipal documents (নাগরিকত্ব সনদ, চারিত্রিক সনদ, ওয়ারিশান সনদ) with authentic digital seals and verifiable QR codes.
+- **🤖 Gemini AI Document Assistant**: Embedded Google Generative AI integration assisting administrative clerks in drafting formal notices and resolving citizen application queries.
+- **🔍 Public Verification Gateway**: Citizens and verification authorities can scan certificate QR codes to validate official records in real-time.
+- **📊 Territorial Demographic Analytics**: Visual analytics tracking ward-wise citizen applications, revenue collections, and municipal service performance.
 
 ---
 
@@ -37,8 +98,8 @@ My core expertise centers on the **Next.js App Router paradigm**—leveraging **
 
 | Capability | Technical Depth & Implementation |
 |---|---|
-| **⚡ Next.js App Router & RSC** | Deep architecture using React Server Components by default, streaming data with React Suspense, Parallel Routes (`@modal`), Intercepting Routes, and custom Route Handlers (`app/api`). |
-| **🛡️ Type-Safe Server Actions** | Replacing traditional REST boilerplate with Next.js Server Actions, Zod schema validation, optimistic UI updates via `useOptimistic`, and robust mutation error boundaries. |
+| **⚡ Next.js App Router & RSC** | Architecting with React Server Components by default, streaming data with React Suspense, Parallel Routes (`@modal`), Intercepting Routes, and custom Route Handlers (`app/api`). |
+| **🛡️ Type-Safe Server Actions** | Eliminating REST boilerplate with Next.js Server Actions, Zod schema validation, optimistic UI updates via `useOptimistic`, and mutation error boundaries. |
 | **🗄️ Database & ORM Pipeline** | Advanced data modeling with Prisma ORM and Drizzle ORM, Neon PostgreSQL serverless pooling, automated schema migrations, complex relational joins, and MongoDB Mongoose models. |
 | **⚡ Smart Caching & Revalidation** | High-performance cache tags (`revalidateTag`), path revalidation (`revalidatePath`), Request Memoization, and edge-cached dynamic content delivery. |
 | **🎨 Modern UI & Accessibility** | Unstyled, fully accessible design systems built on Radix UI primitives, shadcn/ui patterns, Tailwind CSS v4, Lucide React icons, and Framer Motion micro-interactions. |
@@ -91,18 +152,15 @@ My core expertise centers on the **Next.js App Router paradigm**—leveraging **
 
 ---
 
-## 🌟 Featured Next.js Production Systems
+## 🌟 Other Notable Production Projects
 
-| Application | Architecture & Tech Stack | Highlights & Next.js Patterns | Repository |
+| Application | Architecture & Stack | Highlights & Focus Area | Repository |
 |---|---|---|---|
-| **📶 GrameenWiFi ISP** | Next.js 15, Prisma ORM, Tailwind CSS v4, MikroTik API | Automated broadband billing, live subscriber queue sync, MikroTik RouterOS API control & monthly invoice PDF generator | [Explore Code](https://github.com/morshedkoli/isp) |
-| **📰 Muktirkantho Portal** | Next.js 15, React 19, Prisma, Cloudinary, Radix UI | High-throughput digital publishing engine, Server Actions article pipeline, dynamic ISR caching & Cloudinary CDN integration | [Explore Code](https://github.com/morshedkoli/muktirkantho) |
-| **☁️ KoliDrive Cloud** | Next.js 15, AWS S3, Argon2, Jose JWT, Tailwind | Cloud file management and workspace system with direct S3 streaming, presigned cryptographic URLs & expiring link sharing | [Explore Code](https://github.com/morshedkoli/kolidrive) |
-| **📚 Madrasa ERP** | Next.js 15, Neon Postgres, Radix UI, Hook Form | Institutional education management system with student life-cycle tracking, fee ledger billing & report card generation | [Explore Code](https://github.com/morshedkoli/madrasa) |
-| **⚡ dRecharge Ultimate** | Next.js 15, Firebase DataConnect, dnd-kit, Forms | Multi-operator telecom recharge dashboard featuring drag-and-drop queue reordering, real-time balances & modem dispatch | [Explore Code](https://github.com/morshedkoli/dRecharge_ultimate) |
-| **💼 Developer Portfolio** | Next.js 15, Gemini AI, AWS S3, Prisma ORM | Interactive personal portfolio with an embedded Google Gemini AI developer assistant and server-rendered case studies | [Explore Code](https://github.com/morshedkoli/portfolio) |
-| **🏛️ Smart Union V1** | Next.js, React 19, Google AI, jsPDF, MongoDB | Digital governance suite for municipal certificate automation, authentic digital stamps, and citizen verification | [Explore Code](https://github.com/morshedkoli/smart_union_v1) |
-| **👔 Molla Tailors POS** | Next.js 15, React 19, html-to-image, JWT | Bespoke tailor shop point-of-sale, digital anatomical measurement book & instant graphic order slip export | [Explore Code](https://github.com/morshedkoli/molla-tailors) |
+| **📶 GrameenWiFi ISP** | Next.js 15, Prisma ORM, Tailwind CSS v4, MikroTik API | Automated broadband billing, live subscriber queue sync & MikroTik router control | [Explore Code](https://github.com/morshedkoli/isp) |
+| **📚 Madrasa ERP** | Next.js 15, Neon Postgres, Radix UI, Hook Form | Institutional education management system with student life-cycle & fee ledger | [Explore Code](https://github.com/morshedkoli/madrasa) |
+| **⚡ dRecharge Ultimate** | Next.js 15, Firebase DataConnect, dnd-kit, Forms | Multi-operator telecom recharge dashboard featuring drag-and-drop queues | [Explore Code](https://github.com/morshedkoli/dRecharge_ultimate) |
+| **💼 Developer Portfolio** | Next.js 15, Gemini AI, AWS S3, Prisma ORM | Interactive personal portfolio with an embedded Google Gemini AI developer assistant | [Explore Code](https://github.com/morshedkoli/portfolio) |
+| **👔 Molla Tailors POS** | Next.js 15, React 19, html-to-image, JWT | Bespoke tailor shop point-of-sale, digital measurement book & graphic order slips | [Explore Code](https://github.com/morshedkoli/molla-tailors) |
 
 ---
 
