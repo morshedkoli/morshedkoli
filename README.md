@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Morshed Koli
+# 👨‍💻 murshedkoli
 ### Senior Full-Stack Developer & Solutions Architect
 
 <a href="https://git.io/typing-svg">
@@ -81,7 +81,7 @@ Experienced **Senior Full-Stack Developer & Systems Architect** specialized in d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=morshedkoli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=C9D1D9&icon_color=22C55E" alt="Morshed Koli GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=morshedkoli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=C9D1D9&icon_color=22C55E" alt="murshedkoli GitHub Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morshedkoli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=C9D1D9" alt="Top Languages" width="48%" />
 
 <br/>
